@@ -1,4 +1,7 @@
 [theme]
-base="dark"
-primaryColor="#6528F7" 
-secondaryBackgroundColor="#161A30"
+base="light"
+primaryColor="#FFFFFF"
+backgroundColor="#000000"
+secondaryBackgroundColor="#030711”
+textColor="#F5F8FC"
+font="montserrat"
