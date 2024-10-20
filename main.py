@@ -78,11 +78,11 @@ def lottieurl(url):
 
 page_bg_img = """
 <style>
-#MainMenu {visibility: hidden;}
+MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 header {visibility: hidden;}
 [data-testid="stAppViewContainer"] > .main {{
-background-image: linear-gradient(to right, #000000,#3c3c50);
+background-image: linear-gradient(to right, #000000,#030711);
 opacity: 0.8;
 
 }}
@@ -91,7 +91,7 @@ opacity: 0.8;
     border-radius: 10%;
     height: 3em;
     width: 6em;
-    background:	#6528F7;
+    background:	#ef4444;
     border-radius: 16px;
     box-shadow: 0 4px 30px #000000;
     backdrop-filter: blur(12.1px);
